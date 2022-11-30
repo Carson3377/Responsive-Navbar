@@ -1,7 +1,7 @@
 JavaScript Project --
 # Responsive Navbar
  
-In this JavaScript Project, we're going to create a Responsive Navbar with a hamburger icon. Add() & remove() methods are important in this toggle open and close effect as well as toggle() method. This is very helpful and powerful in web development that makes your navbar looks responsive in mobile view. [Responsive.Navbar] (https://carson3377.github.io/Responsive-Navbar/navbar.html)
+In this JavaScript Project, we're going to create a Responsive Navbar with a hamburger icon. Add() & remove() methods are important in this toggle open and close effect as well as toggle() method. This is very helpful and powerful in web development that makes your navbar looks responsive in mobile view. [Navbar] (https://carson3377.github.io/Responsive-Navbar/navbar.html)
 
 Credit: FreeCodeCamp.org
 
